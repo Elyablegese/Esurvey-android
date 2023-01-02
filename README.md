@@ -7,7 +7,7 @@ showcase text input, validation and state capabilities of Compose.
 
 ## Screenshots
 
-<img src="screenshots/screenshots.png"/>
+<img src="screenshots/screenshots.jpg"/>
 
 ## Features
 
