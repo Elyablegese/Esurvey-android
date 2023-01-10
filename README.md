@@ -70,7 +70,7 @@ See how to:
 The data in the sample is static, held in the `*Repository` classes.
 
 ## Setup
-The main [README](https://github.com/android/compose-samples/) has instructions on how to
+The main [README](https://github.com/Elyablegese/Esurvey-android/) has instructions on how to
 setup this sample, and many others.
 
 ## License
